@@ -1,0 +1,6 @@
+@Desafio.Alura.Api_HostAddress = http://localhost:5078
+
+GET {{Desafio.Alura.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

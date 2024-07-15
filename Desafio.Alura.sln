@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Presentation", "1-Presentation", "{A01067B3-EDFC-40E9-B16B-E495A481DE55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio.Alura.Api", "Desafio.Alura.Api\Desafio.Alura.Api.csproj", "{047768AA-8B87-4DD6-8900-E362BB6DC96F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Services", "2-Services", "{39F93CFC-AD2F-4F5B-B363-3E7EFA33A626}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio.Alura.Services", "Desafio.Alura.Services\Desafio.Alura.Services.csproj", "{EB525CE5-015A-485C-BA0F-43E73EAB9B03}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-Domain", "3-Domain", "{A9765EEA-D9A7-484D-9A71-B5D5C03FA5BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio.Alura.Domain", "Desafio.Alura.Domain\Desafio.Alura.Domain.csproj", "{3CA9CF11-B2ED-4141-9597-9CF0343ACA02}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4-Infra", "4-Infra", "{F903BB77-DDBF-4CB9-9A8D-5512C1A44334}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio.Alura.Infra", "Desafio.Alura.Infra\Desafio.Alura.Infra.csproj", "{587DFB13-8C71-4093-89A7-384FFD31D1BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{047768AA-8B87-4DD6-8900-E362BB6DC96F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{047768AA-8B87-4DD6-8900-E362BB6DC96F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{047768AA-8B87-4DD6-8900-E362BB6DC96F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{047768AA-8B87-4DD6-8900-E362BB6DC96F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB525CE5-015A-485C-BA0F-43E73EAB9B03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB525CE5-015A-485C-BA0F-43E73EAB9B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB525CE5-015A-485C-BA0F-43E73EAB9B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB525CE5-015A-485C-BA0F-43E73EAB9B03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CA9CF11-B2ED-4141-9597-9CF0343ACA02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CA9CF11-B2ED-4141-9597-9CF0343ACA02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CA9CF11-B2ED-4141-9597-9CF0343ACA02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CA9CF11-B2ED-4141-9597-9CF0343ACA02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{587DFB13-8C71-4093-89A7-384FFD31D1BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{587DFB13-8C71-4093-89A7-384FFD31D1BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{587DFB13-8C71-4093-89A7-384FFD31D1BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{587DFB13-8C71-4093-89A7-384FFD31D1BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{047768AA-8B87-4DD6-8900-E362BB6DC96F} = {A01067B3-EDFC-40E9-B16B-E495A481DE55}
+		{EB525CE5-015A-485C-BA0F-43E73EAB9B03} = {39F93CFC-AD2F-4F5B-B363-3E7EFA33A626}
+		{3CA9CF11-B2ED-4141-9597-9CF0343ACA02} = {A9765EEA-D9A7-484D-9A71-B5D5C03FA5BD}
+		{587DFB13-8C71-4093-89A7-384FFD31D1BB} = {F903BB77-DDBF-4CB9-9A8D-5512C1A44334}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C6A8CEF-2B50-4C2E-9791-3EA66248B45D}
+	EndGlobalSection
+EndGlobal
