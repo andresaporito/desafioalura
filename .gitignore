@@ -1,0 +1,136 @@
+﻿# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Output directories
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+TestResults/
+
+# Visual Studio files
+*.backup
+*.build.csdef
+*.ilk
+*.log
+*.iobj
+*.ipdb
+*.pdb
+*.exe
+*.msi
+*.pch
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.scc
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+*.pp
+*.vspx
+*.user
+*.vspscc
+*.vssscc
+*.vsmacros
+*.vsixmanifest
+*.vssettings
+*.vsmdi
+*.patch
+*.psess
+*.svclog
+*.a
+*.lib
+*.dll
+*.so
+*.pdf
+*.pdfxml
+*.xsl
+*.ico
+*.csv
+*.fnt
+*.swf
+*.gz
+*.jpg
+*.png
+*.xml
+*.xsl
+*.xsd
+*.ttf
+*.db
+*.bat
+*.cmd
+*.x86
+*.x64
+*.x86_64
+*.ARM
+*.ARM64
+*.Etc
+*.Etc_x86
+*.Etc_x64
+*.Etc_x86_64
+*.Etc_ARM
+*.Etc_ARM64
+
+# ReSharpers
+_ReSharper*/
+*.ReSharper*/
+*.resharper*/
+*.resharper.user
+*/[Rr]esharper*/
+*.DotSettings
+
+# Rider
+.idea/
+
+# Test output
+[Tt]est[Rr]esult*/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Windows Recycle Bin
+$RECYCLE.BIN/
+
+# Windows volume shadow copy
+System Volume Information/
+
+# macOS files
+.DS_Store
+
+# Linux swap files
+*~
+/Teste.Via/.vs
+/.vs/Desafio.Alura/config
+/.vs/Desafio.Alura/DesignTimeBuild
+/.vs/Desafio.Alura/FileContentIndex
+/.vs/Desafio.Alura/v17
+/.vs/ProjectEvaluation
